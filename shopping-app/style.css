@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+}
+
+.todo:hover, .todo.done {
+  cursor: pointer;
+  text-decoration: line-through;
+}
+.btn-danger {
+  position: absolute;
+  left: 40%;
+  width: 300px;
+
+}
